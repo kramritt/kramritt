@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Web Development.**
 
-- 📫 You can reach me on my [Instagram](https://instagram.com/kramritt) / [Discord](https://discord.gg/fqsWVv9aDG)
+- 📫 You can reach me on my [Instagram](https://instagram.com/kramritt) / [Discord](https://discord.com/users/511246734219935754)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
