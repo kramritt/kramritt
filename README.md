@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **Web Development.**
 
-- 📫 You can reach me on my [Instagram](https://instagram.com/kramritt) / [Discord](https://discord.com/users/511246734219935754)
+- 📫 You can reach me on my [Instagram](https://instagram.com/pin0bun) / [Discord](https://discord.com/users/511246734219935754)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/kramritt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_applsoda" height="30" width="40" /></a>
+<a href="https://instagram.com/pin0bun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_applsoda" height="30" width="40" /></a>
 <a href="https://discord.gg/fqsWVv9aDG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Np2YvkCmUn" height="30" width="40" /></a>
 </p>
 
